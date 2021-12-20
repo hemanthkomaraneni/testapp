@@ -1,4 +1,4 @@
-FROM openjdk:alpine
+FROM openjdk:neelu
 RUN pwd
 WORKDIR /tmp
 RUN pwd
